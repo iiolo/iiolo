@@ -17,7 +17,7 @@
 </p>
 <br>
 <h3 align="center">👁‍🗨 Languages and Tools :</h3>
-<p align="center"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp;<img src=https://img.shields.io/badge/JPA-59666C?style=for-the-badge>&nbsp;<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </p>
+<p align="center"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/kotlin-DF01D7?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/oracle-FE2E2E?style=for-the-badge&logo=oracle&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </p>
 <br>
 <h3 align = "center">💻 Github Analytics :</h3>
 <div align = "center"><img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iiolo&layout=compact&theme=tokyonight"></div>
