@@ -32,9 +32,9 @@
     <img 
         src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> &nbsp; <a href="https://www.instagram.com/laura.keem/">
+</a> &nbsp; <a href="https://www.instagram.com/thdbs.keem/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/iiolo/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/thdbs.keem/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </p>
