@@ -34,7 +34,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> &nbsp; <a href="https://www.instagram.com/thdbs.keem/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/thdbs.keem/"
+        src="https://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </p>
@@ -57,10 +57,8 @@
 
 <h3 align="center">💻 Github Analytics :</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iiolo&show_icons=true&theme=tokyonight" alt="iiolo's github stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiolo&layout=compact&theme=tokyonight" alt="Top Langs">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iiolo&theme=tokyonight" alt="Top Languages by Repo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iiolo&theme=tokyonight" alt="Top Languages by Commit">
 </p>
 
 <p align="center">
