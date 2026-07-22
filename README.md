@@ -55,11 +55,6 @@
 </p>
 <br>
 
-<h3 align="center">💻 Github Analytics :</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iiolo&theme=tokyonight" alt="Top Languages by Repo">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iiolo&theme=tokyonight" alt="Top Languages by Commit">
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" alt="footer banner" width="100%">
